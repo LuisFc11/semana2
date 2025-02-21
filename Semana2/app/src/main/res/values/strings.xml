@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">My Application</string>
+
+    <!-- Tipos de conversión -->
+    <string-array name="conversion_types">
+        <item>Temperatura</item>
+        <item>Moneda</item>
+        <item>Longitud</item>
+    </string-array>
+
+    <!-- Unidades para temperatura -->
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <!-- Unidades para moneda -->
+    <string-array name="currency_units">
+        <item>Soles</item>
+        <item>Dólar</item>
+        <item>Euro</item>
+    </string-array>
+
+    <!-- Unidades para longitud -->
+    <string-array name="length_units">
+        <item>Metro</item>
+        <item>Kilómetro</item>
+        <item>Millas</item>
+    </string-array>
+
 </resources>
