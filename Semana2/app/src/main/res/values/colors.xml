@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Un blanco puro -->
+    <color name="white">#FFFFFF</color>
+    <!-- Un acento con más saturación, por ejemplo un rosa intenso -->
+    <color name="colorAccent">#E91E63</color>
+    <!-- Un color de texto más oscuro para buen contraste -->
+    <color name="textColor">#212121</color>
+    <color name="textblack">#252525</color>
+
+    <!-- Fondo de la app con un tono ligeramente grisáceo -->
+    <color name="fondoApp">#ECEFF1</color>
+    <color name="verde">#008f39</color>
+
 </resources>
